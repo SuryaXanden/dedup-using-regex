@@ -6,4 +6,4 @@ Find:
 <pre>^(.*)$((?:\r?\n.*)*?)^\1$\r?\n?</pre>
 
 Replace:
-$1$2
+<pre>$1$2</pre>
